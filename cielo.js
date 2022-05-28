@@ -1,1 +1,1 @@
-console.log("el Cielo no tiene un arcoiris ");
+console.log("el Cielo no tiene un arcoiris ","pero cuando llueve suele salir uno");
